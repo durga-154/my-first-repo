@@ -1,0 +1,4 @@
+Name Durga
+Course Devops
+Today I learned how to upload a file to GitHub and
+ discovered that it's an online platform where we can share our projects with others.
